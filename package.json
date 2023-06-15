@@ -1,0 +1,43 @@
+{
+  "name": "cook_group",
+  "version": "1.0.0",
+  "description": "Верстка сайта",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadim22ed/CookGroup.git"
+  },
+  "keywords": [
+    "scss",
+    "css",
+    "js",
+    "html"
+  ],
+  "author": "Edlichka Vadim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadim22ed/CookGroup/issues"
+  },
+  "homepage": "https://github.com/vadim22ed/CookGroup#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "browser-sync": "^2.29.3",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery-form-styler": "^2.0.2",
+    "magnific-popup": "^1.1.0",
+    "node-sass": "^9.0.0",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.63.4",
+    "slick-carousel": "^1.8.1"
+  }
+}
